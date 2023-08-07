@@ -3,8 +3,8 @@ pragma solidity ^0.8.9;
 
 /*
 Contract: PYME Token Smart Contract
-Version: v0.1
-Date: 25th of June, 2023
+Version: v0.2
+Date: 6th of August, 2023
 Author: Bilal Motiwala
 Security Contact: bilal@pyme.id
 
