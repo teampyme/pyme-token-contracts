@@ -13,6 +13,9 @@ This repository is an archive to manage the versioning of the Pyme Token Contrac
 | Upgrade Implementation | UUPS |
 
 ### Changelog
+23rd August, 2023
+- Contract Audit for v0.2 added to repo. Audit completed by Cyberscope
+
 6th August, 2023
 - Contract Upgrade from v0.1 to v0.2. Implementing Whitelists, Blacklist and Token Pausability following Community Votes
 
