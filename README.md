@@ -9,10 +9,13 @@ This repository is an archive to manage the versioning of the Pyme Token Contrac
 | Decimals | 18 |
 | Contract Address | 0x3408636A7825E894ac5521cA55494F89F96DF240 |
 | Supported Networks | Ethereum Mainnet |
-| Deployment Version | v0.2 |
+| Deployment Version | v0.3 |
 | Upgrade Implementation | UUPS |
 
 ### Changelog
+23rd September, 2023
+- Contract Upgrade from v0.2 to v0.3. Removal of Centralised Permissions from Token Contract (Pause, Unpause, Whitelist, Blacklist).
+
 23rd August, 2023
 - Contract Audit for v0.2 added to repo. Audit completed by Cyberscope
 
